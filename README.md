@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi! I'm Priyanshu 👋
 
-<!--
-**Krishnan-Priyanshu/Krishnan-Priyanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about Kubernetes, Docker, Terraform, Go, Python and Open Source.
+- 🔭 Maintaining Dell Terraform Provider and working at Dell.
+- 🌱 I’m currently building code generation for terraform provider.
+- 📫 Reach out to me on slack
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: What do you get if you lock a monkey in a room with a typewriter for 8 hours?
+                A regular expression.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=krishnan-priyanshu&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" />
+</a>
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnan-priyanshu&hide_border=true" />
+</a>
