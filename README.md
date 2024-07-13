@@ -13,5 +13,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=krishnan-priyanshu&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" />
 </a>
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnan-priyanshu&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnan-priyanshu" />
 </a>
